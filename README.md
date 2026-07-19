@@ -26,7 +26,7 @@ Deploy a web server on an EC2 instance and access it through the Public IP.
 ![Ec2 running](Ec2 running.png)
 
 ### VPC
-![VPC](VPV.png)
+![VPC](VPC.png)
 
 ### Security Group
 ![Security group](Security group.png)
