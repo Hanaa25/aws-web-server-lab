@@ -23,19 +23,19 @@ Deploy a web server on an EC2 instance and access it through the Public IP.
 ## Lab Screenshots
 
 ### EC2 Running
-![EC2 Running](Ec2 running.png)
+![Ec2 running](Ec2 running.png)
 
 ### VPC
-![VPC](VPC.png)
+![VPC](VPV.png)
 
 ### Security Group
-![Security Group](Security group.png)
+![Security group](Security group.png)
 
 ### System Log
-![System Log](System log.png)
+![System log](System log.png)
 
 ### Web Server
-![Web Server](Web server.png)
+![Web server](Web server.png)
 
 ### EBS Volume
 ![EBS](EBS.png)
